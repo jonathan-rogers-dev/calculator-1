@@ -6,7 +6,7 @@ Calculator ships regularly with new features and bug fixes. You can get the late
 
 [![Build Status](https://dev.azure.com/ms/calculator/_apis/build/status/Calculator-CI?branchName=master)](https://dev.azure.com/ms/calculator/_build/latest?definitionId=57&branchName=master)
 
-  ![Calculator Screenshot](docs/Images/CalculatorScreenshot.png)
+  ![Calculator Screenshot in Dark Theme](docs/Images/CalculatorScreenshotLight.png) ![Calculator Screenshot In Dark Theme](docs/Images/CalculatorScreenshotDark.png)
 
 ## Features
 - Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
